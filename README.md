@@ -2,11 +2,10 @@
 
 🎓 Computer Science Student @ Ain Shams University  
 💡 Passionate about Artificial Intelligence & Competitive Programming  
-🚀 Always learning, always building  
 
 ---
 
-## 🔥 Currently Doing
+## Currently Doing
 - 📚 Studying *Hands-On Machine Learning* and applying concepts on Kaggle  
 - 🏆 Grinding Codeforces & Competitive Programming  
 - 📖 Building strong foundations in AI & problem-solving  
