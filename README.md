@@ -21,8 +21,8 @@
 ---
 
 ## 📌 Projects
-- ❤️ **Heart Disease Prediction** – Machine learning model for early risk detection  
-- 🌐 **MySpace (University Project)** – A social platform inspired by Facebook, built as a team project  
+- ❤️ **Heart Disease Prediction** – Machine learning model for early risk detection , built as a team project  
+- 🌐 **MySpace** – A social platform inspired by Facebook, built as a team project  
 
 ---
 
