@@ -7,7 +7,6 @@
 
 ## Currently Doing
 - 📚 Studying *Hands-On Machine Learning* and applying concepts on Kaggle  
-- 🏆 Grinding Codeforces & Competitive Programming  
 - 📖 Building strong foundations in AI & problem-solving  
 
 ---
