@@ -41,9 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaabDev&layout=compact&theme=tokyonight" alt="Top Languages" />
   
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhaabDev&show_icons=true&theme=tokyonight&v=2" />
-
 ---
 
 ## 🌍 Connect With Me
