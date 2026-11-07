@@ -12,4 +12,8 @@ Actively building backend and ML projects — check my pinned repos below.
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohabahmeddd/)
 - 📧 mohabelkodsh@gmail.com
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<h3 align="center">My GitHub Koi 🐟</h3>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</p>
